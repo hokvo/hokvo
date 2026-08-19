@@ -35,17 +35,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glebliz&theme=radical&hide_border=true&background=0d0d0d&ring=FF2FD6&fire=00F0FF&currStreakLabel=00F0FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hokvo&theme=radical&hide_border=true&background=0d0d0d&ring=FF2FD6&fire=00F0FF&currStreakLabel=00F0FF" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/glebliz/glebliz/output/github-contribution-grid-snake-dark.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/hokvo/hokvo/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=glebliz&color=FF2FD6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=hokvo&color=FF2FD6&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br>
