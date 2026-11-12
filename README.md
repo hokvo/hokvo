@@ -9,23 +9,10 @@
 <a href="https://t.me/hokvo">
   <img src="https://img.shields.io/badge/TELEGRAM-t.me%2Fhokvo-FF2FD6?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=0d0d0d" />
 </a>
-<a href="https://t.me/bezdario_notes">
-  <img src="https://img.shields.io/badge/CHANNEL-bezdario__notes-9D00FF?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=0d0d0d" />
-</a>
-<a href="https://instagram.com/hokvos">
-  <img src="https://img.shields.io/badge/INSTAGRAM-hokvos-FF2FD6?style=for-the-badge&logo=instagram&logoColor=00F0FF&labelColor=0d0d0d" />
-</a>
 <a href="https://discord.com/users/hokvo">
   <img src="https://img.shields.io/badge/DISCORD-hokvo-9D00FF?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0d0d0d" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CREATING_WITH-Claude-00F0FF?style=for-the-badge&logo=anthropic&logoColor=FF2FD6&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/CREATING_WITH-ChatGPT-00F0FF?style=for-the-badge&logo=openai&logoColor=FF2FD6&labelColor=0d0d0d" />
 </div>
 
 <br>
