@@ -12,6 +12,9 @@
 <a href="https://discord.com/users/hokvo">
   <img src="https://img.shields.io/badge/DISCORD-hokvo-9D00FF?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0d0d0d" />
 </a>
+<a href="mailto:glaxlizunov@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-glaxlizunov%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=FF2FD6&labelColor=0d0d0d" />
+</a>
 
 </div>
 
