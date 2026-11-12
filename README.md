@@ -51,5 +51,28 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%92_SECURITY_RESEARCH-ADVISORY_CREDITS-00F0FF?style=for-the-badge&logo=github&logoColor=FF2FD6&labelColor=0d0d0d" />
+</div>
+
+<br>
+
+<div align="center">
+
+| Advisory | Project | What | Severity |
+|:---------|:--------|:-----|:--------:|
+| [GHSA-q8wh-f9fh-6gj9](https://github.com/nostrdevkit/nostr/security/advisories/GHSA-q8wh-f9fh-6gj9) | **rust-nostr** (NWC) | Wallet response not bound to the request it answers | 🟠 Medium |
+| [GHSA-33hm-36v7-39g9](https://github.com/hewigovens/hw-core/security/advisories/GHSA-33hm-36v7-39g9) | **hw-core** | THP host accepted paired state without a credential | 🟠 Medium |
+| [GHSA-vjxm-73xh-mppm](https://github.com/deegalabs/konclave/security/advisories/GHSA-vjxm-73xh-mppm) | **konclave** | Rate-limit identity spoofable via X-Forwarded-For | 🟠 Moderate |
+| [GHSA-q288-2xgh-xv2g](https://github.com/nekoguntai-castle/sanctuary/security/advisories/GHSA-q288-2xgh-xv2g) | **sanctuary** | Unauth tx-lookup proxy + unverified signedDeviceId | 🟡 Low ×2 |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/in_coordinated_disclosure-Bisq%20·%20Tangem%20·%20KeepKey%20·%20Aqua%20·%20fedimint%20·%20swift--secp256k1%20·%20OpenSSL-9D00FF?style=flat-square&labelColor=0d0d0d" />
+</div>
+
+<br>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:9D00FF,100:FF00CC&height=120&section=footer" />
 </div>
