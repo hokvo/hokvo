@@ -50,10 +50,12 @@
 
 | Advisory | Project | What | Severity |
 |:---------|:--------|:-----|:--------:|
+| [CVE-2026-77050](https://www.cve.org/CVERecord?id=CVE-2026-77050) | **Django** 5.2 / 6.0 / 6.1 | DoS in `get_supported_language_variant()` (CVE, credited as reporter) | 🟠 Medium |
 | [GHSA-q8wh-f9fh-6gj9](https://github.com/nostrdevkit/nostr/security/advisories/GHSA-q8wh-f9fh-6gj9) | **rust-nostr** (NWC) | Wallet response not bound to the request it answers | 🟠 Medium |
 | [GHSA-33hm-36v7-39g9](https://github.com/hewigovens/hw-core/security/advisories/GHSA-33hm-36v7-39g9) | **hw-core** | THP host accepted paired state without a credential | 🟠 Medium |
 | [GHSA-vjxm-73xh-mppm](https://github.com/deegalabs/konclave/security/advisories/GHSA-vjxm-73xh-mppm) | **konclave** | Rate-limit identity spoofable via X-Forwarded-For | 🟠 Moderate |
 | [GHSA-q288-2xgh-xv2g](https://github.com/nekoguntai-castle/sanctuary/security/advisories/GHSA-q288-2xgh-xv2g) | **sanctuary** | Unauth tx-lookup proxy + unverified signedDeviceId | 🟡 Low ×2 |
+| [RTL v0.15.16](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.15.16) | **Ride-The-Lightning** | Cookie path / baseHref least-privilege hardening | 🟡 Low |
 
 </div>
 
