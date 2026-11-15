@@ -21,11 +21,21 @@
 <br>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hokvo&theme=radical&hide_border=true&background=0d0d0d&ring=FF2FD6&fire=00F0FF&currStreakLabel=00F0FF" />
 </div>
 
 <div align="center">
   <img width="95%" src="https://raw.githubusercontent.com/hokvo/hokvo/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hokvo&color=FF2FD6&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br>
@@ -41,10 +51,10 @@
 | Advisory | Project | What | Severity |
 |:---------|:--------|:-----|:--------:|
 | [CVE-2026-77050](https://www.cve.org/CVERecord?id=CVE-2026-77050) | **Django** 5.2 / 6.0 / 6.1 | DoS in `get_supported_language_variant()` (CVE, credited as reporter) | 🟠 Medium |
-| [GHSA-9349-m8rp-p7wv](https://github.com/RoboSats/robosats/security/advisories/GHSA-9349-m8rp-p7wv) | **RoboSats** | `open_dispute()` race overwrites a just-settled escrow/payout with DIS status | 🟠 Medium |
 | [GHSA-q8wh-f9fh-6gj9](https://github.com/nostrdevkit/nostr/security/advisories/GHSA-q8wh-f9fh-6gj9) | **rust-nostr** (NWC) | Wallet response not bound to the request it answers | 🟠 Medium |
 | [GHSA-33hm-36v7-39g9](https://github.com/hewigovens/hw-core/security/advisories/GHSA-33hm-36v7-39g9) | **hw-core** | THP host accepted paired state without a credential | 🟠 Medium |
 | [GHSA-mj75-4pfh-7q38](https://github.com/tari-project/universe/security/advisories/GHSA-mj75-4pfh-7q38) | **Tari Universe** | Unvalidated postMessage sender reached privileged tapplet signer methods | 🟠 Medium |
+| [GHSA-7g3x-fj89-693j](https://github.com/21-DOT-DEV/swift-secp256k1/security/advisories/GHSA-7g3x-fj89-693j) | **swift-secp256k1** | MuSig2 `add(_:format:)` fatal crash on valid keys (fixed in PR #1253) | 🟡 Low |
 | [GHSA-vjxm-73xh-mppm](https://github.com/deegalabs/konclave/security/advisories/GHSA-vjxm-73xh-mppm) | **konclave** | Rate-limit identity spoofable via X-Forwarded-For | 🟠 Moderate |
 | [GHSA-q288-2xgh-xv2g](https://github.com/nekoguntai-castle/sanctuary/security/advisories/GHSA-q288-2xgh-xv2g) | **sanctuary** | Unauth tx-lookup proxy + unverified signedDeviceId | 🟡 Low ×2 |
 | [RTL v0.15.16](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.15.16) | **Ride-The-Lightning** | Cookie path / baseHref least-privilege hardening | 🟡 Low |
