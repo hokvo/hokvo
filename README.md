@@ -21,10 +21,6 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hokvo&theme=radical&hide_border=true&background=0d0d0d&ring=FF2FD6&fire=00F0FF&currStreakLabel=00F0FF" />
 </div>
 
@@ -50,6 +46,7 @@
 
 | Advisory | Project | What | Severity |
 |:---------|:--------|:-----|:--------:|
+| [GHSA-9349-m8rp-p7wv](https://github.com/RoboSats/robosats/security/advisories/GHSA-9349-m8rp-p7wv) | **RoboSats** | `open_dispute()` race overwrites a just-settled escrow/payout with DIS status | 🟠 Medium |
 | [CVE-2026-77050](https://www.cve.org/CVERecord?id=CVE-2026-77050) | **Django** 5.2 / 6.0 / 6.1 | DoS in `get_supported_language_variant()` (CVE, credited as reporter) | 🟠 Medium |
 | [GHSA-q8wh-f9fh-6gj9](https://github.com/nostrdevkit/nostr/security/advisories/GHSA-q8wh-f9fh-6gj9) | **rust-nostr** (NWC) | Wallet response not bound to the request it answers | 🟠 Medium |
 | [GHSA-33hm-36v7-39g9](https://github.com/hewigovens/hw-core/security/advisories/GHSA-33hm-36v7-39g9) | **hw-core** | THP host accepted paired state without a credential | 🟠 Medium |
