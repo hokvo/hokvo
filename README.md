@@ -31,12 +31,6 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hokvo&color=FF2FD6&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%94%92_SECURITY_RESEARCH-ADVISORY_CREDITS-00F0FF?style=for-the-badge&logo=github&logoColor=FF2FD6&labelColor=0d0d0d" />
 </div>
 
