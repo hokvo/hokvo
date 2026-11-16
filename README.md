@@ -54,10 +54,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/in_coordinated_disclosure-Telegram%20Mini%20Apps%20·%20Bark%2FSecond%20·%20Alby%20Hub%20·%20Tari%20L1%20·%20Liana%20·%20Cove%20·%20Bisq%20·%20Tangem%20·%20KeepKey%20·%20Aqua%20·%20fedimint-9D00FF?style=flat-square&labelColor=0d0d0d" />
-</div>
-
 <br>
 
 <div align="center">
