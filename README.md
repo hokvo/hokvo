@@ -50,6 +50,7 @@
 | [noah PR #445](https://github.com/smolcars/noah/pull/445) | **Noah wallet** | Unauthenticated LNURL invoice submission — server accepted any payee's invoice (fixed, credited) | 🟠 Medium |
 | [GHSA-vjxm-73xh-mppm](https://github.com/deegalabs/konclave/security/advisories/GHSA-vjxm-73xh-mppm) | **konclave** | Rate-limit identity spoofable via X-Forwarded-For | 🟠 Moderate |
 | [GHSA-q288-2xgh-xv2g](https://github.com/nekoguntai-castle/sanctuary/security/advisories/GHSA-q288-2xgh-xv2g) | **sanctuary** | Unauth tx-lookup proxy + unverified signedDeviceId | 🟡 Low ×2 |
+| [GHSA-9349-m8rp-p7wv](https://github.com/RoboSats/robosats/security/advisories/GHSA-9349-m8rp-p7wv) | **RoboSats** | Missing row lock lets `open_dispute()` overwrite a just-settled escrow/payout (published, credited) | 🟠 Low-Med |
 | [RTL v0.15.16](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.15.16) | **Ride-The-Lightning** | Cookie path / baseHref least-privilege hardening | 🟡 Low |
 
 </div>
